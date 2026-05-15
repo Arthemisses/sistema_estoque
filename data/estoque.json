@@ -1,0 +1,16 @@
+[
+    {
+        "codigo": "HW-001",
+        "nome": "RTX 4060",
+        "categoria": "GPU",
+        "preco": 2500.0,
+        "quantidade": 5
+    },
+    {
+        "codigo": "CPU-001",
+        "nome": "Ryzen 7 7800X3D",
+        "categoria": "CPU",
+        "preco": 3200.0,
+        "quantidade": 3
+    }
+]
